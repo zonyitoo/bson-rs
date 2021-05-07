@@ -209,6 +209,7 @@ pub mod decimal128;
 pub mod document;
 pub mod extjson;
 pub mod oid;
+pub mod raw;
 pub mod ser;
 pub mod serde_helpers;
 pub mod spec;
